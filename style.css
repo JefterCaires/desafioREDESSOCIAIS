@@ -31,7 +31,7 @@ div#celular{
     background-image: url('pacote-d013/imagens/frame-iphone.png');
     position: absolute;
     height: 400px;
-    width: 200px;
+    width: 199px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);}
